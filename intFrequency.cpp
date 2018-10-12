@@ -24,5 +24,6 @@ int findMostFrequent(int *arrayofInts, int SIZE)
         iterator++;
     }
 
+
     return number;
 }
