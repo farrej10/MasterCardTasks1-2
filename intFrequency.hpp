@@ -1,4 +1,4 @@
-#include  <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 
-int findMostFrequent(int* arrayofInts,int SIZE);
+int findMostFrequent(int *arrayofInts, int SIZE);
